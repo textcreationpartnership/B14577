@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune concilium tentum in camera Guihald. Ciuit' London, vicesimo di Iulii anno regni Regis Caroli Angliæ &amp;c. septimo, coram Roberto Ducie mil' &amp; Baron. Maiore ciuitatis London, Thoma Middleton mil' &amp; Aldermanno ciuit' London, Nicholao Raynton, Rad. Freeman, Thoma Moulson, Rolando Heyling, Roberto Parkhurst, Iohan' Poole, Christoph. Cletherow, Rich. Fenn Aldermaniis, Mauritio Abbot mil'&amp; Aldermanno, Henr' Garway, Rolando Backhouse, Aldermannis, VVillielmo Acton mil' &amp; Baronett. ac Aldermanno, Humfrido Smith, &amp; Edmundo VVright eiusdem ciuitatis Aldermannis, Anthonio Abdy &amp; Roberto Cambell eiusdem ciuitatis Vicecomitib', ac maiore parte Communiariorum de Commune Concilio eiusdem ciuitatis assemblat. An act of Common Councell touching bringing of commodities to Blackwel-hall and Leaden-hall.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14577</idno><idno type="EEBO-CITATION">99891308</idno>
+  <idno type="VID">185519</idno>
+  <idno type="EEBO-PROQUEST">2240923010</idno>
+  
+            <idno type="STC">STC 16732</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[66]</idno>
+            <idno type="STC">ESTC S102926</idno>
+            <idno type="PROQUEST">ocm99891308</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891308e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185519)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[66])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune concilium tentum in camera Guihald. Ciuit' London, vicesimo di Iulii anno regni Regis Caroli Angliæ &amp;c. septimo, coram Roberto Ducie mil' &amp; Baron. Maiore ciuitatis London, Thoma Middleton mil' &amp; Aldermanno ciuit' London, Nicholao Raynton, Rad. Freeman, Thoma Moulson, Rolando Heyling, Roberto Parkhurst, Iohan' Poole, Christoph. Cletherow, Rich. Fenn Aldermaniis, Mauritio Abbot mil'&amp; Aldermanno, Henr' Garway, Rolando Backhouse, Aldermannis, VVillielmo Acton mil' &amp; Baronett. ac Aldermanno, Humfrido Smith, &amp; Edmundo VVright eiusdem ciuitatis Aldermannis, Anthonio Abdy &amp; Roberto Cambell eiusdem ciuitatis Vicecomitib', ac maiore parte Communiariorum de Commune Concilio eiusdem ciuitatis assemblat. An act of Common Councell touching bringing of commodities to Blackwel-hall and Leaden-hall.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Young printer to the Honourable City of London,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1631.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Markets --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Economic conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="text">
+            <pb facs="tcp:185519:1"/>
+            <pb facs="tcp:185519:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the Tudor rose on one side and the Scottish thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London, consisting of a shield bearing the cross of St. George (patron saint of England) with a sword (emblem of the martyrdom of St. Paul, patron saint of London) in the first quarter of the shield</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>Commune Concilium tentum in Camera <hi>Guihald.</hi> Ciuit London, <date>vicesimo die Iulii anno regni Regis CAROLI Angliae &amp;c. septimo,</date> coram Roberto Ducie mil &amp; Baron. Maiore ciuitatis London, Thoma Middleton mil &amp; Alder<g ref="char:EOLhyphen"/>manno ciuit' London, Nicholao Raynton, Rad. Freeman, Thoma Moulson, Rolan<g ref="char:EOLhyphen"/>do Heyling, Roberto Parkhurst, Iohan Poole, Christoph. Cletherow, Rich. Fenn Alder<g ref="char:EOLhyphen"/>mannis, Mauritio Abbot mil &amp; Aldermanno, Henr Garway, Rolando Backhouse, Al<g ref="char:EOLhyphen"/>dermannis, Willielmo Acton mil' &amp; Baronett. ac Aldermanno, Humfrido Smith, &amp; Edmundo VVright eiusdem ciuitatis Aldermannis, Anthonio Abdy &amp; Roberto Cam<g ref="char:EOLhyphen"/>bell eiusdem ciuitatis Vicecomitib', ac maiore parte Communiariorum de Commune Concilio eiusdem ciuitatis assemblat.</dateline>
+            </opener>
+            <head>An Act of Common Councell touching bringing of commodities to Blackwell-hall and Leaden-hall.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas diuers good lawes and statutes haue beene heretofore made touching the well ordering of the common Market of Blackwell-hall and Leaden hall, and also diuers Acts of Common Councell haue beene heretofore made within this City, for the better execu<g ref="char:EOLhyphen"/>tion of the said statutes, aswell for viewing, and searching, and sealing of cloth, draperies, and other commodities, as for the bring<g ref="char:EOLhyphen"/>ing of the same to the Markets within this City: By which Acts it was ordained, enacted, and established, That all manner of commodities made of wooll or flaxe, towe or hempe, or mixt with any of them, which should be brought to the said City of London, or the Liberties thereof, should be brought to the common Market place or places thereunto appointed, in or neere Blackwell-hall and Leaden-hall, within the said City of London, where the same may be openly viewed and searched; and thereby deceits and fal<g ref="char:EOLhyphen"/>shoods vsed in the making of the said clothes and commodities bee discouered and auoyded: and that in the same Market place or places they should be put to sale, and not elsewhere within the said City and Liberties thereof. And that the reuenues, issues, and profits whatsoeuer comming, growing or arising, of or by reason of the same com<g ref="char:EOLhyphen"/>mon Market place, called Blackwell-hall and Leaden-hall, should be wholly bestowed, conuerted and imployed, for and towards the comfort, sustentation and maintenance of the poore within the seuerall Hos<g ref="char:EOLhyphen"/>pitals of this City.</p>
+            <p>And yet by reason that of late time, woollen Clothes, Fustians, Sayes, Perpetuanoes, linnen Cloth and other Merchandizes and commodities made of wooll or linnen, or both, being made within this King<g ref="char:EOLhyphen"/>dome and brought to London, haue not beene brought to the open Market place or places appointed for that purpose, but haue beene brought into, and sold in Innes, Clothworkers houses, and other se<g ref="char:EOLhyphen"/>cret places, whereby the sayd clothes neither haue, nor could bee conueniently viewed and searched, according to the true meaning of the sayd lawes and statutes of this Realme; but also haue beene sold in Innes, Clothworkers houses, and other secret places, both by retaile, and in grosse, to forreiners and stran<g ref="char:EOLhyphen"/>gers to the preiudice and deceit of his Maiesties louing subiects, and to the preiudice of the freedome and Li<g ref="char:EOLhyphen"/>berties of this City, and the defrauding of the reliefe appointed for the poore of the said Hospitals.</p>
+            <p>For remedy of the abuses aforesaid, Bee it therefore enacted by the authority of this Common Coun<g ref="char:EOLhyphen"/>cell, That all manner of cloth or clothes whatsoeuer made of wooll, called by the name of Broad Clothes, Halfe Cloathes, Long Clothes, or cloth called or knowne by the name of Spaynish Cloth or Northerne Cloth, Dozens, Pennystens, or of what nature, name or kind whatsoeuer, as Kersies, halfe Thickes, Motlyes, Frizes, Plaines, Rugges, Bayes, Sayes, Cottens, Perpetuanoes, and also Fustians, linnen Cloth and Linsey woolsey made or wrought within this Realme, which shalbe hereafter brought either by land or water to this City and Liberties thereof to be sold, that the same shalbe brought to the publique and knowne Market places of Blackwell-hall and Leaden-hall, and the roomes there or neere thereunto adioyning &amp; appointed, or to be appointed for that purpose, viz. All the said seuerall Cloth, Cloths and com<g ref="char:EOLhyphen"/>modities (ercept all strained Cloth made in either the Counties of Esser and Suffolk and the Clothes cal<g ref="char:EOLhyphen"/>led Couentry Clothes, and all Esser and Suffolke Bayes) to be brought to the said Market place of Blackwel-hall, and onely the sayd strained Cloth made in either the sayd Counties of Essex and Suffolke, and the Clothes called Couentry Clothes, and all Essex and Suffolke Bayes to be brought to the said Market place of Leaden hall, to the end, that all Merchants and others may know where to furnish them<g ref="char:EOLhyphen"/>selues with the seuerall commodities aforesaid: And also that the same may be there viewed and searched, whether the same be well and truely made, sealed and vsed as by the lawes and statutes of this Kingdome is limitted and appointed, and there to be entred in the Clerkes booke of Accompts, which are or shall be ap<g ref="char:EOLhyphen"/>pointed for the registring of the said goods, wares and commodities, and there to bee sold in open Market
+<pb facs="tcp:185519:2"/>
+               <pb facs="tcp:185519:2"/> and not elsewhere, within this City or Liberties thereof, vpon paine, that as well the buyer as seller there<g ref="char:EOLhyphen"/>of, which shall buy or sell any of the same commodities in any other place within the City of London, or the Liberties thereof, other than in one of the said Markets of Blackwel-hall or Leaden-hall, appointed as a<g ref="char:EOLhyphen"/>foresaid, shall forfeit for euery broad cloth or Spaynish cloth the summe of xx. s. For euery halfe cloth x. s. and for euery peece of bayes, sayes, perpetuanoes, kersies, halfe thickes, plaines, rowles, fryze, Welch cot<g ref="char:EOLhyphen"/>ten, or Manchester cotten, v.s. and for euery peece of fustian, linnen cloth, linsey woolsey or Northerne cot<g ref="char:EOLhyphen"/>tens, ii. s. vi. d. and for euery Northerne cloth, dozen or penniston v.s. which shall be sold or put to sale else<g ref="char:EOLhyphen"/>where within the liberties of the said City, by any owner, factor, or seller of such goods. And that neither the Hall-keeper, nor any other clerke of Blackwell-hall or Leaden-hall, shall permit or suffer any of the said clothes or other commodities to be brought to either of the said Halls or places respectiuely as aforesaid, to be either viewed, bought or sold within any the seuerall roomes of Blackwell-hall or Leaden-hall, at a<g ref="char:EOLhyphen"/>ny other time or times than on euery Thurseday, from eight of the clocke in the morning vntill eleuen; and from one of the clocke in the afternoone of that day vntill foure of the clocke in that afternoone: and likewise vpon euery Friday from eight of the clock in the morning vntill eleuen, and from one of the clocke in the af<g ref="char:EOLhyphen"/>ternoone of that day vntill foure of the clocke in that afternoone: and also vpon euery Saturday from eight of the clocke in the morning vntill eleuen of the cloke, that morning being the ending of the said Market, vp<g ref="char:EOLhyphen"/>on paine to forfeit and pay, for euery time he shall offend therein, as followeth, viz. For the first offence xl. s. For the second offence v.l. and for the third offence to lose his office which hee shall haue within either of the said Halls of Blackwel-hall or Leaden-hall at the time of such offence committed. And be it further enacted, that the Hall-keeper in each of the said Halls of Blackwel-hall or Leaden hall (for the better notice to bee taken of the beginning and ending of the markets in either of the said Halls respectiuely) shall cause the bell hanged vp in that market to be rung out by the space of one quarter of an houre both before the beginning and at the end of the market, vpon euery of the said market dayes and times appointed as aforesaid, vpon paine that the said Hall-keeper, for euery time that he shall make default in ringing out of the said bell, shall forfeit and pay the summe of iii. s. iiii. d. for and towards the reliefe of the poore Children harboured and kept in Christs Hospitall, London.</p>
+            <p>And be it further enacted by the authority aforesaid, That no Inholder nor any other person whatsoe<g ref="char:EOLhyphen"/>uer, free or not free of this City, and inhabiting and dwelling within the same or the liberties thereof, shall permit or suffer any the foresaid clothes, or halfe clothes, or Spaynish clothes, or any other the commodities aforesaid, at any time or times hereafter, to be harboured, bought, sold or put to sale within any part of his or their house or houses, yards, stables, chambers, shops, ware house, or worke house within this City or liberties thereof, before the same be brought, pitched, &amp; harboured within either of the said Halls of Blackwell-hall or Leaden hall, appointed as aforesaid, and therein either sold or suffered to continue by the space of ten dayes next after the bringing in of the same; or shall suffer any of the said commodities which shalbe at any time hereafter taken out of either of the said markets of Blackwel hall or Leaden-hall (before the same shallbe there bought &amp; sold as aforesaid) to be bought or sold in any of his or their Inne, house, or other place whatsoeuer, within the said City of London or liberties there<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> other than in either of the sayd markets of Blackwel-hall or Leaden-hall, appointed as aforesaid: vpon paine that euery such person, being a Free<g ref="char:EOLhyphen"/>man, which shall offend in any of the premisses, shall forfeit for his first offence the summe of fiue pounds, For his second offence tenne pounds, For his third offence to be disfranchised, and not to be readmitted but by the Lord Maior, Aldermen, and Common Councell of this City, and that vpon security that hee shall not offend againe in the like kinde: And not being a freeman, for his first offence fiue pounds for his secon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offence tenne pounds, and for euery other offence the like summe and penalty of tenne pounds a time. And be it further enacted by the authority aforesaid, That for the better obseruation of this Act and all parts there<g ref="char:EOLhyphen"/>of, there be euery yeare, yearely, sixe Surueyors chosen by the Court of Lord Maior and Aldermen, at the Court to be next holden after the feast of S. Michael the Archangell, whereof, three to be Merchants, and three to be Drapers, whose office shalbe to enquire of all abuses and offences against this Act, and any two of them to present the same to the Court of Lord Maior and Aldermen, or cause a due and legall course to be
+<pb facs="tcp:185519:3"/>
+               <pb facs="tcp:185519:3"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken for the punishment of offenders, as often as they shall finde cause.</p>
+            <p>And further to preuent the shifts which are practised to auoyd the ancient priuiledges of this City by <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orters and others, which be imployed in carrying cloth out of or from Blackwelhall &amp; Leaden-hall afore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid: Be it therfore enacted by the authority aforesaid, that no Porter or other person whatsoeuer, shal be ad<g ref="char:EOLhyphen"/>mitted to carry any the commodities aforesaid, out of, or from Blackwel hall or Leaden-hall, or any the roomes adioyning, but the chiefe Porters of Blackwel-hall or Leaden hall for the time being, or such as shalbe appointed by the chiefe Porters of Blackwel-hall and Leaden-hall for that purpose: And to the in<g ref="char:EOLhyphen"/>tent that there shall be no exaction of rates or prices for the carriage of any the aforesaid commodities out of Blackwel-hall or Leaden-hall, other than the rates hereafter mentioned, as are appointed for their seue<g ref="char:EOLhyphen"/>rall carriages, Be it enacted and ordained by the authority aforesaid, that the seuerall rates hereafter men<g ref="char:EOLhyphen"/>tioned shalbe fairely written in a table, and hung vp in euery of the said Halls: and those rates so written and no greater shall or may be taken by the said chiefe Porters; and if any chiefe Porter shall exact and re<g ref="char:EOLhyphen"/>ceiue more than shall be expressed in such tables, he or they for euery time so offending shall forfeit tenne times asmuch as shall be so receiued: And be it further enacted, that the said chiefe porters shall allow vnto their labouring Porters, for euery of their halfe dayes work eight pence, and for euery of their whole dayes work sixteene pence, the same to be taken for or about the carriage of the said commodities as aforesaid: All which paines, penalties, forfeitures, and summes of money, to be forfeited as aforesaid, shalbe recouered by action of debt, bill or plaint, to be commenced and prosecuted in the name of the Chamberlaine of this City of Lon<g ref="char:EOLhyphen"/>don for the time being, in the Kings Maiesties Court, to be holden in the Chamber of the Guildhall of the City of London, before the Maior and Aldermen of the same City, wherein no essoine, or wager of Law shall be admitted or allowed for the defendant. And that the Chamberlaine of the same citie for the time be<g ref="char:EOLhyphen"/>ing, shall in all suits, to be prosecuted by vertue of this Act, against the offender, recouer the ordinary costs of suit to be expended in and about the prosecution thereof. And further, that the moity of all such forfeitures to be recouered by vertue hereof (the costs of suit for the recouery of the same being deducted and allowed) shalbe after recouery and receit thereof, paid and deliuered to the Treasurer of Christs hospitall, to bee imployed towards the reliefe of the poore children to be brought vp and maintained in the said hospitall; and the other moity thereof, to him or them that shall first giue information of the offence for which such forfei<g ref="char:EOLhyphen"/>tures shall grow, and shall prosecute the suit in the name of the Chamberlaine of the said City, for recoue<g ref="char:EOLhyphen"/>ry of the same: Any thing in this Act to the contrary notwithstanding.</p>
+            <p>
+               <table>
+                  <head>Rates for porterage, to be paid vnto the chiefe Porters of Blackwel-hall and Leaden-hall, for and vpon all goods and commodities whatsoeuer, comming to London, that ought to be brought and pitched at Blackwel-hall or Leaden-hall.</head>
+                  <row>
+                     <cell>IMprimis, kentish clothes for euery cloth</cell>
+                     <cell>i.d.ob.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Barkshire, Gloster, and Worcester clothes, for euery cloth</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Wiltshire clothes, for euery cloth</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item for Suffolke and Essex clothes, for euery cloth</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, for Northerne Dozens and Pennystens, for euery score eight pence, and for euery packe</cell>
+                     <cell>iiii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, for Northerne Kersies, for euery score</cell>
+                     <cell>vi.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item Northerne Cottens, for euery score</cell>
+                     <cell>iiii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item Northerne double Dozens, for euery piece</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Deuonshire Ketsies and Perpetuanoes, for euery horse packe</cell>
+                     <cell>vi.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item linnen cloth of all sorts, for euery packe</cell>
+                     <cell>iiii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item Deuonshire Bayes, for euery Bay</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Fustians of all sorts, for euery horse packe</cell>
+                     <cell>iiii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, for Bayes called Caxall Bayes, for euery Bay</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Shrowsbury cottens and fryzes, for euery piece</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, broad Bayes, called Dutch Bayes, for euery Bay</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Blankets twelue paire in a bundle, for euery bundle</cell>
+                     <cell>ii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Rugges, for euery score</cell>
+                     <cell>vi.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Yarne, for euery horse packe</cell>
+                     <cell>vi.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Serge and all stuffes whatsoeuer mixt with silke yarne and threed, for euery horse packe</cell>
+                     <cell>vi.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, Manchester packes cottens and fryzes, for euery horsepacke</cell>
+                     <cell>iiii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, for euery cloth, called Spaynish cloth</cell>
+                     <cell>ob.</cell>
+                  </row>
+                  <row>
+                     <cell>Item, stockings, for euery horse packe.</cell>
+                     <cell>vi. d.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London printed by Robert Young, Printer to the Honourable City of London. 1631</p>
+         </div>
+      </back>
+   </text>
+</TEI>
